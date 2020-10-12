@@ -16,10 +16,10 @@ Reconocer las características de lenguajes de marcas analizando e interpretando
 En esta primera unidad introduciremos el concepto y las características generales de los lenguajes de marca. También comentaremos las ventajas que aportan para el tratamiento de la información. Incluiremos una clasificación de los lenguajes de marca e identificaremos algunos de los más relevantes. Comentaremos su utilización en distintos ámbitos haciendo especial hincapié en XML y en lenguajes adaptados a XML. Por último hablaremos del consorcio W3 y elegiremos una herramienta de edición de lenguajes de marca con licencia GNU.
 
 ## Apuntes
-* Introduction to Markup Languages
-* Markup language (wikipedia)
-* Lenguage de marcado (wikipedia)
-* Apuntes de José Luis Comesaña
+* [Introduction to Markup Languages] (https://docs.google.com/presentation/d/1edLlwK5p7O_LAfu0oIsKFdJD1TA7Mrj6-0LO9nH6By4/edit#slide=id.p6)
+* [Markup language (wikipedia)] (https://en.wikipedia.org/wiki/Markup_language)
+* [Lenguage de marcado (wikipedia)] (https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
+* [Apuntes de José Luis Comesaña] (Apuntes de José Luis Comesaña)
 
 ## Actividades
 * Actividades tema 1
