@@ -23,3 +23,4 @@ En esta primera unidad introduciremos el concepto y las características general
 
 ## Actividades
 * Actividades tema 1
+* Actividades resueltas tema 1
