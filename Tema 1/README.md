@@ -22,5 +22,5 @@ En esta primera unidad introduciremos el concepto y las características general
 * [Apuntes de José Luis Comesaña](https://drive.google.com/file/d/1PI2b0DVZcWw6EvyoHOss4p4Qz4Yn9I9c/view?usp=sharing)
 
 ## Actividades
-* Actividades tema 1
-* Actividades resueltas tema 1
+* [Actividades tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20tema%201)
+* [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
