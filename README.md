@@ -2,7 +2,7 @@
 Lenguajes de Marcas y sistemas de gestión de información
 
 #### Agradecimientos;
-Le agradezco a @jpritin el haberme facilitado siempre los medios suficientes para adquirir los siguientes 
+Le agradezco a [@jpritin](https://github.com/jpritin) el haberme facilitado siempre los medios suficientes para adquirir los siguientes 
 conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gracias Profesor.
 
 ## PROGRAMACIÓN DIDÁCTICA
