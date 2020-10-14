@@ -1,6 +1,10 @@
 # Lenguaje-de-marcado
 Lenguajes de Marcas y sistemas de gestión de información
 
+#### Agradecimientos;
+Le agradezco a @jpritin el haberme facilitado siempre los medios suficientes para adquirir los siguientes 
+conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gracias Profesor.
+
 ## PROGRAMACIÓN DIDÁCTICA
 ###	1- OBJETIVOS ASOCIADOS AL MÓDULO
 	1. Analizar la estructura del software de base, comparando las características y prestaciones de 
