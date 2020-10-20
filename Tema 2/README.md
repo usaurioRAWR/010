@@ -2,16 +2,16 @@
 
 ## Objetivos de la Unidad
 
-Identificar y clasificar los lenguajes de marcas relacionados con la web y sus diferentes versiones.
+- Identificar y clasificar los lenguajes de marcas relacionados con la web y sus diferentes versiones.
 Analizar la estructura de un documento HTML e identificar las secciones que lo componen.
-Reconocer la funcionalidad de las principales etiquetas y atributos del lenguaje HTML.
-Establecer las semejanzas y diferencias entre los lenguajes HTML y XHTML.
-Reconocer la utilidad de XHTML en los sistemas de gestión de información.
-Utilizar herramientas en la creación documentos web.
-Identificar las ventajas que aporta la utilización de hojas de estilo.
-Aplicar hojas de estilo.
-Breve descripción
-En esta primera unidad estudiaremos HTML, XHTML y CSS.
+- Reconocer la funcionalidad de las principales etiquetas y atributos del lenguaje HTML.
+- Establecer las semejanzas y diferencias entre los lenguajes HTML y XHTML.
+- Reconocer la utilidad de XHTML en los sistemas de gestión de información.
+- Utilizar herramientas en la creación documentos web.
+- Identificar las ventajas que aporta la utilización de hojas de estilo.
+- Aplicar hojas de estilo.
+- Breve descripción
+- En esta primera unidad estudiaremos HTML, XHTML y CSS.
 
 ### Apuntes
 
