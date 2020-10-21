@@ -14,7 +14,7 @@ Analizar la estructura de un documento HTML e identificar las secciones que lo c
 ## Breve descripción
 En esta primera unidad estudiaremos HTML, XHTML y CSS.
 
-Apuntes
+## Apuntes
 
 * [HTML (w3school)](http://www.w3schools.com/html/)
 * [XHTML (w3chool)](http://www.w3schools.com/html/html_xhtml.asp)
