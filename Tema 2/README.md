@@ -33,7 +33,7 @@ En esta primera unidad estudiaremos HTML, XHTML y CSS.
 
 ## Actividades lingüísticas
 * Language Activity #1 Adding a favicon; [Enlace 1.](https://drive.google.com/file/d/1r02Jij3ZFglXFHFekGnrY2g-fx7T__ge/view?usp=sharing) [Enlace 2.]()
-* Language Activity #2 CSS Rounded corners; [Enlace 1.](https://drive.google.com/file/d/1Iy-xFgo7JjarAB0DwsDHC3DejHiehRs6/view?usp=sharing) [Enlace 2.]()
+* Language Activity #2 CSS Rounded corners; [Enlace 1.](https://drive.google.com/file/d/1Iy-xFgo7JjarAB0DwsDHC3DejHiehRs6/view?usp=sharing) [Enlace 2.](/Lenguaje-de-marcado/Tema 2/Actividades tema 2/Actividades sobre los contenidos/Ejercicios CSS.docx)
 * Language Activity #3 CSS Box shadow; [Enlace 1.](https://drive.google.com/file/d/17OGNQf5D7Rn0oeMjV31oG29pqJIk0JKm/view?usp=sharing) [Enlace 2.]()
 * Language Activity #4 CSS Background size; [Enlace 1.](https://drive.google.com/file/d/1jduXumgJXqm89HEHz7FSZCcd0_d_t2G7/view?usp=sharing) [Enlace 2.]()
 * [Listening from BBC 6 minutes: World Wide Web celebrates 20th birthday](http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2011/08/110817_6min_english_web_page.shtml)
