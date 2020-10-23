@@ -6,7 +6,7 @@ Le agradezco a [@jpritin](https://github.com/jpritin) el haberme facilitado siem
 conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gracias Profesor.
 
 ## PROGRAMACIÓN DIDÁCTICA
-###	1- OBJETIVOS ASOCIADOS AL MÓDULO
+###	1.- OBJETIVOS ASOCIADOS AL MÓDULO
 	1. Analizar la estructura del software de base, comparando las características y prestaciones de 
 	sistemas libres y propietarios, para administrar sistemas operativos de servidor.
 	2. Instalar y configurar el software de base, siguiendo documentación técnica y especificaciones 
@@ -37,6 +37,5 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 		d) Establecer procedimientos, verificando su funcionalidad, para desplegar y distribuir 
 		aplicaciones.
 
-
-
+### 2- BLOQUES TEMÁTICOS
 
