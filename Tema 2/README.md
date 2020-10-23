@@ -26,15 +26,16 @@ En esta primera unidad estudiaremos HTML, XHTML y CSS.
 * [Tables Generator](https://www.tablesgenerator.com/html_tables)
 
 ## Actividades sobre los contenidos
-* [HTML Class exercises](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?usp=sharing)
-* [CSS Class exercises](https://docs.google.com/document/d/1Wo6uDvf8kMymGpSsElnFX0H9kdS8XKyOOQRVsFM9Vu4/edit)
-* [Quarterly Work](https://docs.google.com/document/d/19XuiUFmxDGUJRPD9GHRLjJzb7QfNrKa17IrbcdqB7qc/edit?usp=sharing)
+* HTML Class exercises; [Enlace 1.](https://drive.google.com/file/d/1O9V5onINCOthjTmC4mqgy3ynHdb51_Kn/view?usp=sharing) [Enlace 2.]()
+* HTML Class exercises; [Enlace 1.](https://drive.google.com/file/d/1O9V5onINCOthjTmC4mqgy3ynHdb51_Kn/view?usp=sharing) [Enlace 2.]()
+* CSS Class exercises; [Enlace 1.](https://drive.google.com/file/d/13BXW9c6BImR8JYm3KHUGYYKJ0gi3Xj-v/view?usp=sharing) [Enlace 2.]()
+* Quarterly Work; [Enlace 1.](https://drive.google.com/file/d/1YTv1VavH_rZ_lJu1nObCzKQBQBCJ-wCU/view?usp=sharing) [Enlace 2.]()
 
 ## Actividades lingüísticas
-* [Language Activity #1 Adding a favicon](https://docs.google.com/document/d/1JYkAIYhh5bmc67yXKf4CrdaSLVcp4gv-CZ8KpBple6c/edit)
-* [Language Activity #2 CSS Rounded corners](https://docs.google.com/document/d/1LaKAee8BrSJ_uWXuMouCZgS8AQiGeAJwAd7aFt40Cfc/edit)
-* [Language Activity #3 CSS Box shadow](https://docs.google.com/document/d/1xsqjZp-DjMhdMkmYlrxQPADoVqBvzZTvLRTQD9rAH10/edit)
-* [Language Activity #4 CSS Background size](https://docs.google.com/document/d/1ThSE5kFGzSsnTBkoYTEXBNmyDaQasc4l1W2N5YXGuYE/edit)
+* Language Activity #1 Adding a favicon; [Enlace 1.](https://drive.google.com/file/d/1r02Jij3ZFglXFHFekGnrY2g-fx7T__ge/view?usp=sharing) [Enlace 2.]()
+* Language Activity #2 CSS Rounded corners; [Enlace 1.](https://drive.google.com/file/d/1Iy-xFgo7JjarAB0DwsDHC3DejHiehRs6/view?usp=sharing) [Enlace 2.]()
+* Language Activity #3 CSS Box shadow; [Enlace 1.](https://drive.google.com/file/d/17OGNQf5D7Rn0oeMjV31oG29pqJIk0JKm/view?usp=sharing) [Enlace 2.]()
+* Language Activity #4 CSS Background size; [Enlace 1.](https://drive.google.com/file/d/1jduXumgJXqm89HEHz7FSZCcd0_d_t2G7/view?usp=sharing) [Enlace 2.]()
 * [Listening from BBC 6 minutes: World Wide Web celebrates 20th birthday](http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2011/08/110817_6min_english_web_page.shtml)
 * [New trends in web design](http://www.instantshift.com/2011/03/22/the-latest-trends-in-web-design/)
 * [CSS Font-Size](http://h2131053.stratoserver.net/cursos/file.php/53/CSS_Font.pdf)
