@@ -38,8 +38,7 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 		aplicaciones.
 
 ### Para acceder a la programacion en la que se basa este repoditorio acceda a; 
-	[Enlace 1.](https://docs.google.com/document/d/1h0xjxYv3oA2GFKh70XjMDTBGZnDojdHan9w5UsdASt8/edit)
-	[Enlace 2.]()
+[Enlace 1.](https://docs.google.com/document/d/1h0xjxYv3oA2GFKh70XjMDTBGZnDojdHan9w5UsdASt8/edit)
 	
 ## En caso de ser estudiantes o titulados de la enseñanza de Formacion Profesional de Grado Medio/Superior;
 - Les ofrecemos escharle un bistazo al [Europass](https://europa.eu/europass/es) .
