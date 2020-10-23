@@ -37,4 +37,26 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 		d) Establecer procedimientos, verificando su funcionalidad, para desplegar y distribuir 
 		aplicaciones.
 
-Para acceder a la programacion en la que se basa este repoditorio acceda a; 
+### Para acceder a la programacion en la que se basa este repoditorio acceda a; 
+	[Enlace 1.](https://docs.google.com/document/d/1h0xjxYv3oA2GFKh70XjMDTBGZnDojdHan9w5UsdASt8/edit)
+	[Enlace 2.]()
+	
+## En caso de ser estudiantes o titulados de la enseñanza de Formacion Profesional de Grado Medio/Superior;
+- Les ofrecemos escharle un bistazo al [Europass](https://europa.eu/europass/es) .
+
+## ¿Que es el Europass?
+- Europass es un currículum europeo común que sirve para velar por la transparencia de las cualificaciones y las competencias, desarrollado en el año 2004, con objeto de ayudar a los ciudadanos a presentar sus capacidades y cualificaciones de una manera sencilla y fácilmente comprensible en Europa (en los Estados miembros de la UE, los países del Área Económica de Libre Comercio/Espacio Económico Europeo y los países candidatos) y así facilitarles la movilidad y posibilitarles nuevas oportunidades para estudiar o trabajar en el extranjero.
+
+- El Europass está formado por cinco documentos:
+		- Curriculum Vitae Europass.
+		- Pasaporte de Lenguas Europass.
+		- Documento de Movilidad Europass.
+		- Suplemento Europass al Título de Técnico/Certificado de Profesionalidad.
+		- Suplemento Europass al Título Superior.
+
+//Técnico Superior en Administracion de Sistemas Informáticos en Red;
+	[Enlace 1.](https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf)
+	[Enlace 2.](https://drive.google.com/file/d/1Kjhx-5qDu4lfSvgKJqZBOv7gUpQp7Ccz/view?usp=sharing)
+
+
+	
