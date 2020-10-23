@@ -39,7 +39,8 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 
 ### Para acceder a la programacion en la que se basa este repoditorio acceda a; 
 [Enlace 1.](https://docs.google.com/document/d/1h0xjxYv3oA2GFKh70XjMDTBGZnDojdHan9w5UsdASt8/edit)
-	
+[Enlace 2.](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Additional%20documentation/1ASIR%20LM2019-2020.docx)
+
 ## En caso de ser estudiantes o titulados de la enseñanza de Formacion Profesional de Grado Medio/Superior;
 - Les ofrecemos escharle un bistazo al [Europass](https://europa.eu/europass/es) .
 
@@ -56,6 +57,7 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 //Técnico Superior en Administracion de Sistemas Informáticos en Red;
 	[Enlace 1.](https://www.todofp.es/dam/jcr:525bf081-bd23-482f-bd89-1151f2498373/n-tsadministracionsistemasinformaticosreden-pdf.pdf)
 	[Enlace 2.](https://drive.google.com/file/d/1Kjhx-5qDu4lfSvgKJqZBOv7gUpQp7Ccz/view?usp=sharing)
+	[Enlace 3.](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Additional%20documentation/n-tsadministracionsistemasinformaticosreden-pdf.pdf)
 
 
 	
