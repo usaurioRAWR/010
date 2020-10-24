@@ -1,6 +1,5 @@
-```
 # Actividades tema 1
-```
+
 1. Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto
     de tu elección
 2. Crea un documento XML que incluya información sobre un par de libros de una
