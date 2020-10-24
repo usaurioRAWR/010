@@ -9,3 +9,5 @@ crea un repositorio nuevo llamado “prueba” que incluya una página “README
 	a. https://github.com/Github-Classroom-Cybros/Learn-Github
 	
 	b. https://guides.github.com/features/mastering-markdown/
+	
+Nota: Crea un repositorio en GitHub llamado “EjerciciosLLMM”. El proyecto incluirá una carpeta “Tema1” en el que incluirás un archivo con la solución a cada uno de los ejercicios planteados.
