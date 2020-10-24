@@ -41,7 +41,7 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 [Enlace 1.](https://docs.google.com/document/d/1h0xjxYv3oA2GFKh70XjMDTBGZnDojdHan9w5UsdASt8/edit)
 [Enlace 2.](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Additional%20documentation/1ASIR%20LM2019-2020.docx)
 
-## En caso de ser estudiantes o titulados de la enseñanza de Formacion Profesional de Grado Medio/Superior;
+## En caso de ser estudiantes o titulado de la enseñanz de Formacion Profesional de Grado Medio/Superior;
 - Les ofrecemos escharle un bistazo al [Europass](https://europa.eu/europass/es) .
 
 ## ¿Que es el Europass?
