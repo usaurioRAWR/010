@@ -16,11 +16,40 @@ Reconocer las características de lenguajes de marcas analizando e interpretando
 En esta primera unidad introduciremos el concepto y las características generales de los lenguajes de marca. También comentaremos las ventajas que aportan para el tratamiento de la información. Incluiremos una clasificación de los lenguajes de marca e identificaremos algunos de los más relevantes. Comentaremos su utilización en distintos ámbitos haciendo especial hincapié en XML y en lenguajes adaptados a XML. Por último hablaremos del consorcio W3 y elegiremos una herramienta de edición de lenguajes de marca con licencia GNU.
 
 ## Apuntes
-* [Introduction to Markup Languages](https://docs.google.com/presentation/d/1edLlwK5p7O_LAfu0oIsKFdJD1TA7Mrj6-0LO9nH6By4/edit#slide=id.p6)
-* [Markup language (wikipedia)](https://en.wikipedia.org/wiki/Markup_language)
-* [Lenguage de marcado (wikipedia)](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
-* [Apuntes de José Luis Comesaña](https://drive.google.com/file/d/1PI2b0DVZcWw6EvyoHOss4p4Qz4Yn9I9c/view?usp=sharing)
+### Introduction to Markup Languages
+* GitHub; 
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+* Drive;
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+
+### Markup language (wikipedia)](https://en.wikipedia.org/wiki/Markup_language)
+
+### Lenguage de marcado (wikipedia)](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
+
+### Apuntes de José Luis Comesaña
+* GitHub; 
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+* Drive;
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+	
 
 ## Actividades
-* [Actividades tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20tema%201)
-* [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
+### Actividades tema 1
+* GitHub; 
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+* Drive;
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+	
+### Actividades resueltas tema 1
+* GitHub; 
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
+* Drive;
+	* [Enlace 1./.pdf]()
+	* [Enlace 2./.docx]() 
