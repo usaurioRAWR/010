@@ -37,7 +37,7 @@ conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gra
 		d) Establecer procedimientos, verificando su funcionalidad, para desplegar y distribuir 
 		aplicaciones.
 
-### Para acceder a la programacion en la que se basa este repoditorio acceda a; 
+### Para acceder a la programacion completa en la que se basa este repoditorio acceda a; 
 [Enlace 1.](https://docs.google.com/document/d/1h0xjxYv3oA2GFKh70XjMDTBGZnDojdHan9w5UsdASt8/edit)
 [Enlace 2.](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Additional%20documentation/1ASIR%20LM2019-2020.docx)
 
