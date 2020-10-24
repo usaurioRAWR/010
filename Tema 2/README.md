@@ -26,16 +26,57 @@ En esta primera unidad estudiaremos HTML, XHTML y CSS.
 * [Tables Generator](https://www.tablesgenerator.com/html_tables)
 
 ## Actividades sobre los contenidos
-* HTML Class exercises; [Enlace 1.](https://drive.google.com/file/d/1O9V5onINCOthjTmC4mqgy3ynHdb51_Kn/view?usp=sharing) [Enlace 2.]()
-* HTML Class exercises; [Enlace 1.](https://drive.google.com/file/d/1O9V5onINCOthjTmC4mqgy3ynHdb51_Kn/view?usp=sharing) [Enlace 2.]()
-* CSS Class exercises; [Enlace 1.](https://drive.google.com/file/d/13BXW9c6BImR8JYm3KHUGYYKJ0gi3Xj-v/view?usp=sharing) [Enlace 2.]()
-* Quarterly Work; [Enlace 1.](https://drive.google.com/file/d/1YTv1VavH_rZ_lJu1nObCzKQBQBCJ-wCU/view?usp=sharing) [Enlace 2.]()
+* HTML Class exercises;  
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1jCaGtFIW-_q8wktdzUCUmbkXjfm8ghTf/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1tCEuCB5h7O9IXP-Ysr_XFc73zhZZXWGu/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
+* CSS Class exercises;  
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1uZkxC74Cm-wOP80sCihj3QJJ1SkZAhHS/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1UF8k5ZjWX9H0GBpvAcDu3GbDJy9iVGUc/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
+* Quarterly Work;    
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1WsJQLpV4N1Wfc0Xp0hj3K8Sm4nIMY74R/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1qk7mKBNU2VMlVlWc-Z-QtVSk_dXtIyKq/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
 
 ## Actividades lingüísticas
-* Language Activity #1 Adding a favicon; [Enlace 1.](https://drive.google.com/file/d/1r02Jij3ZFglXFHFekGnrY2g-fx7T__ge/view?usp=sharing) [Enlace 2.]()
-* Language Activity #2 CSS Rounded corners; [Enlace 1.](https://drive.google.com/file/d/1Iy-xFgo7JjarAB0DwsDHC3DejHiehRs6/view?usp=sharing) [Enlace 2.](/Lenguaje-de-marcado/Tema 2/Actividades tema 2/Actividades sobre los contenidos/Ejercicios CSS.docx)
-* Language Activity #3 CSS Box shadow; [Enlace 1.](https://drive.google.com/file/d/17OGNQf5D7Rn0oeMjV31oG29pqJIk0JKm/view?usp=sharing) [Enlace 2.]()
-* Language Activity #4 CSS Background size; [Enlace 1.](https://drive.google.com/file/d/1jduXumgJXqm89HEHz7FSZCcd0_d_t2G7/view?usp=sharing) [Enlace 2.]()
+* Language Activity #1 Adding a favicon; 
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/14YGfqMnnH0LlkPyg3fC9pGrkgVYma1wb/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1nFFN37efv4UVF2GrnZJYqCn7N4as3v65/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
+* Language Activity #2 CSS Rounded corners; 
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1lQPivLy1HKG-0ubphYOxPHkWBKoKr-q3/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/17y4FBFcKLx64bA4GBkmyksAExWRGvYu5/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
+* Language Activity #3 CSS Box shadow; 
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1SHqSfaj7DiYgrl4mNAX7xrrdtuOTXjdx/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/13EldWapkIFXkTQ0FaLyt48bWBHAtsMmz/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
+* Language Activity #4 CSS Background size; 
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1aFZM_vgbaNA51wPt7aF-EJcdbHqNY4Pq/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1n3zulJG4kJbm6aVV5Tjh4DOpelUa7Un-/view?usp=sharing) 
+	* GitHub; 
+		* [Enlace 1./.pdf]()
+		* [Enlace 2./.docx]() 
 * [Listening from BBC 6 minutes: World Wide Web celebrates 20th birthday](http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2011/08/110817_6min_english_web_page.shtml)
 * [New trends in web design](http://www.instantshift.com/2011/03/22/the-latest-trends-in-web-design/)
 * [CSS Font-Size](http://h2131053.stratoserver.net/cursos/file.php/53/CSS_Font.pdf)
