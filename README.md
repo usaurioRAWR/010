@@ -5,7 +5,7 @@ Lenguajes de Marcas y sistemas de gestión de información
 Le agradezco a [@jpritin](https://github.com/jpritin) el haberme facilitado siempre los medios suficientes para adquirir los siguientes 
 conocimientos y el consentimiento de trasladarlos a este repositorio. Muchas gracias Profesor.
 
-## PROGRAMACIÓN DIDÁCTICA.
+## PROGRAMACIÓN DIDÁCTICA
 ###	1.- OBJETIVOS ASOCIADOS AL MÓDULO
 	1. Analizar la estructura del software de base, comparando las características y prestaciones de 
 	sistemas libres y propietarios, para administrar sistemas operativos de servidor.
