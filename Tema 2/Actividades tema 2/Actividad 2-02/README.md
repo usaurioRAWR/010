@@ -5,6 +5,6 @@ Crea una p√°gina html que incluya seis niveles de cabecera seguidas de un peque√
 
 ![010](Additional documentation/Imagen_0_Actividad_2-02.jpg)
 
-![](Additional documentation/Imagen_0_Actividad_2-02.png)
+![](Additional documentation/00.png)
 
-![010](Additional documentation/Imagen_0_Actividad_2-02.png)
+![010](Additional documentation/00.png)
