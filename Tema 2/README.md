@@ -25,9 +25,7 @@ En esta primera unidad estudiaremos HTML, XHTML y CSS.
 * [CSS (w3school)](http://www.w3schools.com/css/default.asp)
 * [XHTML (uniwebsidad)](https://uniwebsidad.com/libros/xhtml)
 
-
 -----
-
 
 ## Enlaces de interés
 * [HTML CheatSheet](https://htmlcheatsheet.com/)
