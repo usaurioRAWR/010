@@ -21,33 +21,33 @@ En esta primera unidad introduciremos el concepto y las características general
 
 
 ## Apuntes
-### * Introduction to Markup Languages
-* GitHub; 
-	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/Lesson%201%20Markup%20Language.pdf)
-	* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/Lesson%201%20Markup%20Language.ppt.pptx) 
-* Drive;
-	* [Enlace 1./.pdf](https://drive.google.com/file/d/1DLw2txUveSN3NAc5u_Pd2EQL4gEx45XZ/view?usp=sharing)
-	* [Enlace 2./.docx](https://drive.google.com/file/d/1mM3urjSDiY9paQutLUIUOTQoxUvEIVVS/view?usp=sharing) 
+* Introduction to Markup Languages
+	* GitHub; 
+		* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/Lesson%201%20Markup%20Language.pdf)
+		* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/Lesson%201%20Markup%20Language.ppt.pptx) 
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1DLw2txUveSN3NAc5u_Pd2EQL4gEx45XZ/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1mM3urjSDiY9paQutLUIUOTQoxUvEIVVS/view?usp=sharing) 
 
-### *  [Markup language (wikipedia)](https://en.wikipedia.org/wiki/Markup_language)
+*  [Markup language (wikipedia)](https://en.wikipedia.org/wiki/Markup_language)
 
 ### [Lenguage de marcado (wikipedia)](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
 
-### *  Apuntes de José Luis Comesaña
-* GitHub; 
-	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/LMSGI_01.pdf)
-* Drive;
-	* [Enlace 1./.pdf](https://drive.google.com/file/d/1e6fHXoHgy2Mp_TDlp-gLy4xZ3_xsaTKG/view?usp=sharing)
+*  Apuntes de José Luis Comesaña
+	* GitHub; 
+		* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/LMSGI_01.pdf)
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1e6fHXoHgy2Mp_TDlp-gLy4xZ3_xsaTKG/view?usp=sharing)
 
 -----
 
 ## Actividades
-### *  Actividades tema 1
-* GitHub; 
-	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Actividades/LMSGI_01_Actividades.pdf)
-	* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Actividades/LMSGI_01_Actividades.docx) 
-* Drive;
-	* [Enlace 1./.pdf](https://drive.google.com/file/d/1--CG_-H6b7bPg8PxYcK-0kG7FIaUSP7s/view?usp=sharing)
-	* [Enlace 2./.docx](https://drive.google.com/file/d/1hte3eWyH9S9GNLoNi3TtwqLMmUwYZXTV/view?usp=sharing) 
+*  Actividades tema 1
+	* GitHub; 
+		* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Actividades/LMSGI_01_Actividades.pdf)
+		* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Actividades/LMSGI_01_Actividades.docx) 
+	* Drive;
+		* [Enlace 1./.pdf](https://drive.google.com/file/d/1--CG_-H6b7bPg8PxYcK-0kG7FIaUSP7s/view?usp=sharing)
+		* [Enlace 2./.docx](https://drive.google.com/file/d/1hte3eWyH9S9GNLoNi3TtwqLMmUwYZXTV/view?usp=sharing) 
 	
 ## [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
