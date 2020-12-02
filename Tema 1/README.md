@@ -52,4 +52,4 @@ En esta primera unidad introduciremos el concepto y las características general
 		* [Enlace 1./.pdf](https://drive.google.com/file/d/1--CG_-H6b7bPg8PxYcK-0kG7FIaUSP7s/view?usp=sharing)
 		* [Enlace 2./.docx](https://drive.google.com/file/d/1hte3eWyH9S9GNLoNi3TtwqLMmUwYZXTV/view?usp=sharing) 
 	
-* [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
+#### * [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
