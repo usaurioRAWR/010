@@ -56,4 +56,4 @@ En esta primera unidad introduciremos el concepto y las características general
 
 ## Actividades resueltas tema 1
 	
-#### [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
+#### * [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
