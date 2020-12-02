@@ -12,8 +12,13 @@ Reconocer las características de lenguajes de marcas analizando e interpretando
 * Analizar las características propias del lenguaje XML.
 * Contrastar la necesidad de crear documentos XML bien formados y la influencia en su procesamiento.
 
+-----
+
 ## Breve descripción de la U.T.
 En esta primera unidad introduciremos el concepto y las características generales de los lenguajes de marca. También comentaremos las ventajas que aportan para el tratamiento de la información. Incluiremos una clasificación de los lenguajes de marca e identificaremos algunos de los más relevantes. Comentaremos su utilización en distintos ámbitos haciendo especial hincapié en XML y en lenguajes adaptados a XML. Por último hablaremos del consorcio W3 y elegiremos una herramienta de edición de lenguajes de marca con licencia GNU.
+
+-----
+
 
 ## Apuntes
 ### Introduction to Markup Languages
@@ -33,7 +38,8 @@ En esta primera unidad introduciremos el concepto y las características general
 	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/LMSGI_01.pdf)
 * Drive;
 	* [Enlace 1./.pdf](https://drive.google.com/file/d/1e6fHXoHgy2Mp_TDlp-gLy4xZ3_xsaTKG/view?usp=sharing)
-	
+
+-----
 
 ## Actividades
 ### Actividades tema 1
