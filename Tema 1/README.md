@@ -21,7 +21,7 @@ En esta primera unidad introduciremos el concepto y las características general
 
 
 ## Apuntes
-### Introduction to Markup Languages
+### * Introduction to Markup Languages
 * GitHub; 
 	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/Lesson%201%20Markup%20Language.pdf)
 	* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/Lesson%201%20Markup%20Language.ppt.pptx) 
@@ -29,11 +29,11 @@ En esta primera unidad introduciremos el concepto y las características general
 	* [Enlace 1./.pdf](https://drive.google.com/file/d/1DLw2txUveSN3NAc5u_Pd2EQL4gEx45XZ/view?usp=sharing)
 	* [Enlace 2./.docx](https://drive.google.com/file/d/1mM3urjSDiY9paQutLUIUOTQoxUvEIVVS/view?usp=sharing) 
 
-### [Markup language (wikipedia)](https://en.wikipedia.org/wiki/Markup_language)
+### *  [Markup language (wikipedia)](https://en.wikipedia.org/wiki/Markup_language)
 
 ### [Lenguage de marcado (wikipedia)](https://es.wikipedia.org/wiki/Lenguaje_de_marcado)
 
-### Apuntes de José Luis Comesaña
+### *  Apuntes de José Luis Comesaña
 * GitHub; 
 	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Apuntes/LMSGI_01.pdf)
 * Drive;
@@ -42,7 +42,7 @@ En esta primera unidad introduciremos el concepto y las características general
 -----
 
 ## Actividades
-### Actividades tema 1
+### *  Actividades tema 1
 * GitHub; 
 	* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Actividades/LMSGI_01_Actividades.pdf)
 	* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Documentation/Actividades/LMSGI_01_Actividades.docx) 
