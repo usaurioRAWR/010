@@ -42,12 +42,14 @@ En esta primera unidad introduciremos el concepto y las características general
 -----
 
 ## Actividades
-*  Actividades tema 1
-	* GitHub; 
-		* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Additional%20documentation/Actividades/LMSGI_01_Actividades.pdf)
-		* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Additional%20documentation/Actividades/LMSGI_01_Actividades.docx) 
-	* Drive;
-		* [Enlace 1./.pdf](https://drive.google.com/file/d/1--CG_-H6b7bPg8PxYcK-0kG7FIaUSP7s/view?usp=sharing)
-		* [Enlace 2./.docx](https://drive.google.com/file/d/1hte3eWyH9S9GNLoNi3TtwqLMmUwYZXTV/view?usp=sharing) 
+*  [Actividades tema 1 (Repositorio GitHub)](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20tema%201)
+
+*  Actividades tema 1 (Documentos de texto)
+		* GitHub; 
+			* [Enlace 1./.pdf](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Additional%20documentation/Actividades/LMSGI_01_Actividades.pdf)
+			* [Enlace 2./.docx](https://github.com/usaurioRAWR/Lenguaje-de-marcado/blob/main/Tema%201/Additional%20documentation/Actividades/LMSGI_01_Actividades.docx) 
+		* Drive;
+			* [Enlace 1./.pdf](https://drive.google.com/file/d/1--CG_-H6b7bPg8PxYcK-0kG7FIaUSP7s/view?usp=sharing)
+			* [Enlace 2./.docx](https://drive.google.com/file/d/1hte3eWyH9S9GNLoNi3TtwqLMmUwYZXTV/view?usp=sharing) 
 	
 * [Actividades resueltas tema 1](https://github.com/usaurioRAWR/Lenguaje-de-marcado/tree/main/Tema%201/Actividades%20resueltas%20tema%201)
